@@ -1,1 +1,1 @@
-# First file int hte project
+# First file int the project
